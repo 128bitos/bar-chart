@@ -1,0 +1,85 @@
+[
+	
+
+
+	{
+		"car_name": "Volkswagen Golf",
+		"ranking" : "1",
+		"car_image": "img/golf.jpg",
+		"detail": "The undisputed benchmark when it comes to the family hatchback, the Volkswagen Golf is still arguably the best car in its class.",
+		"price_from": 20225
+	},
+
+	{
+		"car_name": "Ford Focus",
+		"ranking" : "2",
+		"car_image": "img/focus.jpg",
+		"detail": "With a completely restyled, more sculpted exterior and a cabin space that’s more advanced and sophisticated than ever, this is the most refined Focus yet.",
+		"price_from":  20395
+	},
+
+	{
+		"car_name": "Nissan Quashqai",
+		"ranking" : "3",
+		"car_image": "img/quashqai.jpg",
+		"detail": "The Nissan Qashqai has to be one of the most popular crossover SUVs ever built. The last model was a massive success in Ireland and since the introduction of the second generation, sales have been swift for the manufacturer. The Qashqai won the APMP Irish Car of the Year award in 2015, and with good reason too.",
+		"price_from":  25245
+	},
+
+	{
+		"car_name": "Toyota Corolla",
+		"ranking" : "4",
+		"car_image": "img/corolla.jpg",
+		"detail": "The Toyota Corolla is only available as a saloon after Toyota made the decision to try and appeal to a younger, more Volkswagen Golf-directed audience by turning the hatchback Corolla into the Auris – which is also proving itself to be popular both as a hatch and as a sports tourer. ",
+		"price_from":  20995
+	},
+
+	{
+		"car_name": "Skoda Octavia",
+		"ranking" : "5",
+		"car_image": "img/octavia.jpg",
+		"detail": "The Skoda Octavia is a hugely popular machine and it can be seen at taxi ranks all around the country. This is generally a good sign. The Octavia gets better looking with every update and over the years the Czech manufacturer has worked hard to offer the Octavia in as many guises as possible. ",
+		"price_from":  18995
+	},
+
+	{
+		"car_name": "Hyundai ix35",
+		"ranking" : "6",
+		"car_image": "img/ix35.jpg",
+		"detail": "The ix35 marked a real step forward for Hyundai. It feels like someone has actually spent some time on it, styling and interior in particular. The drive is more average and it’s hardly revolutionary, but you do get a lot of kit for your cash.",
+		"price_from":  25495
+	},
+
+	{
+		"car_name": "Ford Fiesta",
+		"ranking" : "7",
+		"car_image": "img/fiesta.jpg",
+		"detail": "Like a brand new smartphone, the New Ford Fiesta combines contemporary style, with state-of-the-art technology. Every feature is designed to help you get the most out of your day.",
+		"price_from":  15050
+	},
+
+	{
+		"car_name": "Volkswagen Passat Saloon",
+		"ranking" : "8",
+		"car_image": "img/passat.jpg",
+		"detail": "The Volkswagen Passat is a stylish family saloon with plenty of space, an upmarket interior and a range of efficient engines.",
+		"price_from":  27455
+	},
+
+	{
+		"car_name": "Toyota Yaris",
+		"ranking" : "9",
+		"car_image": "img/yaris.jpg",
+		"detail": "Since the Yaris was first released in Europe the car has undertaken some dramatic changes. As the Toyota family grew so too did the Yaris. The Yaris will always be a strong contender in its segment because it dons a Toyota badge which to a lot of people means that it will be reliable and probably cheap to run.",
+		"price_from":  14995
+	},
+
+	{
+		"car_name": "Kia Sportage",
+		"ranking" : "10",
+		"car_image": "img/sportage.jpg",
+		"detail": "Kia will be launching their new Kia Sportage in Ireland at the beginning of 2016.  The first Sportage was built during 1993 and took many of its components from Mazda. The second generation was released in 2005 and this time it used the same platform as the Hyundai Tucson. ",
+		"price_from":  26790
+	}
+
+]
